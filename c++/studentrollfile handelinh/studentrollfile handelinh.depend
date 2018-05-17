@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1404722403 source:c:\users\bharatz\desktop\c,c++\c++\studentrollfile handelinh\main.cpp
+	<iostream>
+	<fstream>
+
